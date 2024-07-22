@@ -1,5 +1,3 @@
-# Ecf_Zoo_Arcadia
-
 # ECF Zoo Arcadia
  
 # Énoncé du projet
